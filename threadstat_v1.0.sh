@@ -3,7 +3,7 @@
 # 22.12.2016
 
 # The script aims to check a HotSpot (mainly Tomcat) Thread Dump taken with a "kill -3"
-# For the moment it's not working for WebSphere javacores or JSTACK dumps
+# For the moment it's not working for WebSphere javacores
 
 #Timestamp
 time=$(date)
